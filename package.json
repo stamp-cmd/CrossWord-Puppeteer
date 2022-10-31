@@ -2,7 +2,7 @@
   "dependencies": {
     "puppeteer": "^19.2.0"
   },
-  "name": "app",
+  "name": "CrossWord-Puppeteer",
   "version": "1.0.0",
   "main": "Cross.js",
   "type": "module",
@@ -12,6 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "A Puppeteer code to brute-force crossword for website: https://www.boatloadpuzzles.com/playcrossword"
 }
